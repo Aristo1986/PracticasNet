@@ -123,3 +123,7 @@ for (int i = 0; i < cantidadColumnas; i++)
 }
 
 Console.ReadKey();
+
+
+
+//nandooooooooo

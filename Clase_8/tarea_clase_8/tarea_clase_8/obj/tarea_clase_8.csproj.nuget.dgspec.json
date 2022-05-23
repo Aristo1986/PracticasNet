@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CURSO NET 6.0\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj": {}
+    "C:\\Users\\megae\\OneDrive\\Escritorio\\PracticasNetNando\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj": {}
   },
   "projects": {
-    "E:\\CURSO NET 6.0\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj": {
+    "C:\\Users\\megae\\OneDrive\\Escritorio\\PracticasNetNando\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CURSO NET 6.0\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj",
+        "projectUniqueName": "C:\\Users\\megae\\OneDrive\\Escritorio\\PracticasNetNando\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj",
         "projectName": "tarea_clase_8",
-        "projectPath": "E:\\CURSO NET 6.0\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj",
-        "packagesPath": "C:\\Users\\Fernando\\.nuget\\packages\\",
-        "outputPath": "E:\\CURSO NET 6.0\\Clase_8\\tarea_clase_8\\tarea_clase_8\\obj\\",
+        "projectPath": "C:\\Users\\megae\\OneDrive\\Escritorio\\PracticasNetNando\\Clase_8\\tarea_clase_8\\tarea_clase_8\\tarea_clase_8.csproj",
+        "packagesPath": "C:\\Users\\megae\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\megae\\OneDrive\\Escritorio\\PracticasNetNando\\Clase_8\\tarea_clase_8\\tarea_clase_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Fernando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\megae\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
