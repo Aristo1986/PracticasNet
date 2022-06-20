@@ -1,0 +1,15 @@
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\bin\Debug\net6.0\Ejercicio_1.exe
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\bin\Debug\net6.0\Ejercicio_1.deps.json
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\bin\Debug\net6.0\Ejercicio_1.runtimeconfig.json
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\bin\Debug\net6.0\Ejercicio_1.dll
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\bin\Debug\net6.0\Ejercicio_1.pdb
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.csproj.AssemblyReference.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.AssemblyInfoInputs.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.AssemblyInfo.cs
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.dll
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\refint\Ejercicio_1.dll
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.pdb
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\Ejercicio_1.genruntimeconfig.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_1\Ejercicio_1\obj\Debug\net6.0\ref\Ejercicio_1.dll

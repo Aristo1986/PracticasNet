@@ -1,0 +1,15 @@
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.csproj.AssemblyReference.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.AssemblyInfoInputs.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.AssemblyInfo.cs
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.csproj.CoreCompileInputs.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\bin\Debug\net6.0\Ejercicio_2_Bingo.exe
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\bin\Debug\net6.0\Ejercicio_2_Bingo.deps.json
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\bin\Debug\net6.0\Ejercicio_2_Bingo.runtimeconfig.json
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\bin\Debug\net6.0\Ejercicio_2_Bingo.dll
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\bin\Debug\net6.0\Ejercicio_2_Bingo.pdb
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.dll
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\refint\Ejercicio_2_Bingo.dll
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.pdb
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\Ejercicio_2_Bingo.genruntimeconfig.cache
+E:\Repositorios GitHub\PracticasNet\Clase_9\Ejercicio_2_Bingo\Ejercicio_2_Bingo\obj\Debug\net6.0\ref\Ejercicio_2_Bingo.dll
