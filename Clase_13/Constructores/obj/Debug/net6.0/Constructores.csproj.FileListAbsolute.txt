@@ -1,0 +1,15 @@
+E:\GitHub\PracticasNet\Clase_13\Constructores\bin\Debug\net6.0\Constructores.exe
+E:\GitHub\PracticasNet\Clase_13\Constructores\bin\Debug\net6.0\Constructores.deps.json
+E:\GitHub\PracticasNet\Clase_13\Constructores\bin\Debug\net6.0\Constructores.runtimeconfig.json
+E:\GitHub\PracticasNet\Clase_13\Constructores\bin\Debug\net6.0\Constructores.dll
+E:\GitHub\PracticasNet\Clase_13\Constructores\bin\Debug\net6.0\Constructores.pdb
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.csproj.AssemblyReference.cache
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfoInputs.cache
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfo.cs
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.csproj.CoreCompileInputs.cache
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.dll
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\refint\Constructores.dll
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.pdb
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\Constructores.genruntimeconfig.cache
+E:\GitHub\PracticasNet\Clase_13\Constructores\obj\Debug\net6.0\ref\Constructores.dll

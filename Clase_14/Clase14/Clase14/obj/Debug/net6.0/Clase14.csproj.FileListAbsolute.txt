@@ -1,0 +1,15 @@
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\bin\Debug\net6.0\Clase14.exe
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\bin\Debug\net6.0\Clase14.deps.json
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\bin\Debug\net6.0\Clase14.runtimeconfig.json
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\bin\Debug\net6.0\Clase14.dll
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\bin\Debug\net6.0\Clase14.pdb
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.csproj.AssemblyReference.cache
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.AssemblyInfoInputs.cache
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.AssemblyInfo.cs
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.csproj.CoreCompileInputs.cache
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.dll
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\refint\Clase14.dll
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.pdb
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\Clase14.genruntimeconfig.cache
+E:\GitHub\PracticasNet\Clase_14\Clase14\Clase14\obj\Debug\net6.0\ref\Clase14.dll

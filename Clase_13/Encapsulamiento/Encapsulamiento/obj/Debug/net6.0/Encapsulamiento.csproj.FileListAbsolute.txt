@@ -1,0 +1,15 @@
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\bin\Debug\net6.0\Encapsulamiento.exe
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\bin\Debug\net6.0\Encapsulamiento.deps.json
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\bin\Debug\net6.0\Encapsulamiento.runtimeconfig.json
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\bin\Debug\net6.0\Encapsulamiento.dll
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\bin\Debug\net6.0\Encapsulamiento.pdb
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.csproj.AssemblyReference.cache
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.AssemblyInfoInputs.cache
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.AssemblyInfo.cs
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.csproj.CoreCompileInputs.cache
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.dll
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\refint\Encapsulamiento.dll
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.pdb
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\Encapsulamiento.genruntimeconfig.cache
+E:\GitHub\PracticasNet\Clase_13\Encapsulamiento\Encapsulamiento\obj\Debug\net6.0\ref\Encapsulamiento.dll

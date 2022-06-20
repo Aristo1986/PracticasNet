@@ -1,0 +1,15 @@
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\bin\Debug\net6.0\Clase_10.exe
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\bin\Debug\net6.0\Clase_10.deps.json
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\bin\Debug\net6.0\Clase_10.runtimeconfig.json
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\bin\Debug\net6.0\Clase_10.dll
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\bin\Debug\net6.0\Clase_10.pdb
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.csproj.AssemblyReference.cache
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.AssemblyInfoInputs.cache
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.AssemblyInfo.cs
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.csproj.CoreCompileInputs.cache
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.dll
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\refint\Clase_10.dll
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.pdb
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\Clase_10.genruntimeconfig.cache
+E:\Repositorios GitHub\PracticasNet\Clase_10\Clase_10\Clase_10\obj\Debug\net6.0\ref\Clase_10.dll

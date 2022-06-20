@@ -1,0 +1,15 @@
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\bin\Debug\net6.0\EjercicioBilletera.exe
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\bin\Debug\net6.0\EjercicioBilletera.deps.json
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\bin\Debug\net6.0\EjercicioBilletera.runtimeconfig.json
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\bin\Debug\net6.0\EjercicioBilletera.dll
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\bin\Debug\net6.0\EjercicioBilletera.pdb
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.csproj.AssemblyReference.cache
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.AssemblyInfoInputs.cache
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.AssemblyInfo.cs
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.csproj.CoreCompileInputs.cache
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.dll
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\refint\EjercicioBilletera.dll
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.pdb
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\EjercicioBilletera.genruntimeconfig.cache
+E:\GitHub\PracticasNet\Clase_13\Billetera\Billetera\Billetera\obj\Debug\net6.0\ref\EjercicioBilletera.dll

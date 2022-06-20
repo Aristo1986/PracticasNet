@@ -1,0 +1,15 @@
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\bin\Debug\net6.0\cartasEspañolas.exe
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\bin\Debug\net6.0\cartasEspañolas.deps.json
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\bin\Debug\net6.0\cartasEspañolas.runtimeconfig.json
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\bin\Debug\net6.0\cartasEspañolas.dll
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\bin\Debug\net6.0\cartasEspañolas.pdb
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.csproj.AssemblyReference.cache
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.AssemblyInfoInputs.cache
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.AssemblyInfo.cs
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.csproj.CoreCompileInputs.cache
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.dll
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\refint\cartasEspañolas.dll
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.pdb
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\cartasEspañolas.genruntimeconfig.cache
+E:\GitHub\PracticasNet\Clase_14\Cartas\cartasEspañolas\cartasEspañolas\obj\Debug\net6.0\ref\cartasEspañolas.dll

@@ -1,0 +1,15 @@
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.csproj.AssemblyReference.cache
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.AssemblyInfoInputs.cache
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.AssemblyInfo.cs
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.csproj.CoreCompileInputs.cache
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\bin\Debug\net6.0\Clase_11_Introduccion_Objeto.exe
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\bin\Debug\net6.0\Clase_11_Introduccion_Objeto.deps.json
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\bin\Debug\net6.0\Clase_11_Introduccion_Objeto.runtimeconfig.json
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\bin\Debug\net6.0\Clase_11_Introduccion_Objeto.dll
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\bin\Debug\net6.0\Clase_11_Introduccion_Objeto.pdb
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.dll
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\refint\Clase_11_Introduccion_Objeto.dll
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.pdb
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\Clase_11_Introduccion_Objeto.genruntimeconfig.cache
+E:\GitHub\Clase_11_Introduccion_Objeto\Clase_11_Introduccion_Objeto\obj\Debug\net6.0\ref\Clase_11_Introduccion_Objeto.dll
